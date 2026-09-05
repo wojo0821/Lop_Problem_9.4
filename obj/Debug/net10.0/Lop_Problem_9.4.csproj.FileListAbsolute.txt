@@ -1,0 +1,15 @@
+D:\C#\Lop_Problem_9.4\bin\Debug\net10.0\Lop_Problem_9.4.exe
+D:\C#\Lop_Problem_9.4\bin\Debug\net10.0\Lop_Problem_9.4.deps.json
+D:\C#\Lop_Problem_9.4\bin\Debug\net10.0\Lop_Problem_9.4.runtimeconfig.json
+D:\C#\Lop_Problem_9.4\bin\Debug\net10.0\Lop_Problem_9.4.dll
+D:\C#\Lop_Problem_9.4\bin\Debug\net10.0\Lop_Problem_9.4.pdb
+D:\C#\Lop_Problem_9.4\obj\Debug\net10.0\Lop_Problem_9.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Lop_Problem_9.4\obj\Debug\net10.0\Lop_Problem_9.4.AssemblyInfoInputs.cache
+D:\C#\Lop_Problem_9.4\obj\Debug\net10.0\Lop_Problem_9.4.AssemblyInfo.cs
+D:\C#\Lop_Problem_9.4\obj\Debug\net10.0\Lop_Problem_9.4.csproj.CoreCompileInputs.cache
+D:\C#\Lop_Problem_9.4\obj\Debug\net10.0\Lop_Problem_9.4.sourcelink.json
+D:\C#\Lop_Problem_9.4\obj\Debug\net10.0\Lop_Problem_9.4.dll
+D:\C#\Lop_Problem_9.4\obj\Debug\net10.0\refint\Lop_Problem_9.4.dll
+D:\C#\Lop_Problem_9.4\obj\Debug\net10.0\Lop_Problem_9.4.pdb
+D:\C#\Lop_Problem_9.4\obj\Debug\net10.0\Lop_Problem_9.4.genruntimeconfig.cache
+D:\C#\Lop_Problem_9.4\obj\Debug\net10.0\ref\Lop_Problem_9.4.dll
